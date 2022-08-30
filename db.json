@@ -11,6 +11,14 @@
     {
       "content": "custom hooks are beautiful too",
       "id": 3
+    },
+    {
+      "content": "hooks are cool",
+      "id": 4
+    },
+    {
+      "content": "hooks makes coding easier",
+      "id": 5
     }
   ],
   "persons": [
@@ -28,6 +36,16 @@
       "name": "Raju",
       "number": "023-2569855",
       "id": 3
+    },
+    {
+      "name": "Shyam",
+      "number": "010-6598552",
+      "id": 4
+    },
+    {
+      "name": "Ramjan",
+      "number": "145-8796522",
+      "id": 5
     }
   ]
 }

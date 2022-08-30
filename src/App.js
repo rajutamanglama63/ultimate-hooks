@@ -20,7 +20,7 @@ const useResource = (baseUrl) => {
 
   useEffect(() => {
     axios.get(baseUrl).then((res) => setResources(res.data))
-  }, [baseUrl])
+  }, [resources, baseUrl])
 
   const create = async (resource) => {
     const newObj = await axios.post(baseUrl, resource)
